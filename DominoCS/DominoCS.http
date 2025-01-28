@@ -1,0 +1,6 @@
+@DominoCS_HostAddress = http://localhost:5195
+
+GET {{DominoCS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
